@@ -1,6 +1,6 @@
 ### About Tuxy
 Programmer of [TVnfo](https://github.com/TVnfo/about) tvguide and schedule website.
 
-* Working on TVnfo project (since: May 31st, 2016; 5-years)
-* Using Arch Linux + i3wm (since: April 10th, 2021; 9-months)
-* Used Arch Linux + XFCE (2011-2021; 10-years)
+* Using Arch Linux With i3wm (from Apr. 7th, 2021 to Today)
+* Used Arch Linux With XFCE (from Dec. 22nd, 2020 to Apr. 7th, 2021)
+* Used Ubuntu Linux (v7.04 to v10.04; from Mar. 9th, 2008 to Dec. 22st, 2020)
